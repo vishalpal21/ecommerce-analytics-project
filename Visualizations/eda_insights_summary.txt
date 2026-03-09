@@ -1,0 +1,13 @@
+E-COMMERCE EDA - KEY INSIGHTS SUMMARY
+======================================================================
+
+Total Transactions: 50,000
+Total Revenue: $25,157,989.65
+Average Order Value: $503.16
+Median Order Value: $503.11
+Unique Customers: 100
+Date Range: 2023-01-04 to 2025-12-02
+Top Product Category: Sports
+Top Country: France
+Most Popular Payment: Upi
+Peak Transaction Day: Thursday
